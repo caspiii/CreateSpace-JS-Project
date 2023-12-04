@@ -1,7 +1,18 @@
-# FullStack Social Media App
+# Website-Project
+Data Structures and Algorithms Project
 
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+Front End:
 
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
+React - Framework
+React Router - Navigation
+Formik + Yup - Form and Form Validation
+Redux Toolkit - State Management
+Redux with Persistent - Store in Local Storage
+React Drop Zone - For Image Uploads
+Back End:
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+Node.js - Runtime
+Express.js - Backend Framework
+Mongoose - Managing Database
+JSON Web Token - Authentication
+Multer - File Uploading
